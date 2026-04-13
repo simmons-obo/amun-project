@@ -1,1 +1,1 @@
-print("Amun system online")
+print("Amun online")
