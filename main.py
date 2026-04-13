@@ -1,0 +1,1 @@
+print("Amun system online")
